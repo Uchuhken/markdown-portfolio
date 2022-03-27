@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Uchuhken favorite things.
+[x] git
+[x] hub
+[x] github
+[x] python
